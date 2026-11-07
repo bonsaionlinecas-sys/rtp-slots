@@ -1,0 +1,9 @@
+# rtp-slots
+
+Calculate observed slot RTP from stake and gross payout CSV data. A local weighted-return audit with validation, a worked example and clear limits.
+
+## Main page
+- [RTP slots](https://bonsaionlinecas-sys.github.io/rtp-slots/): Calculate observed slot RTP from stake and gross payout CSV data. A local weighted-return audit with validation, a worked example and clear limits.
+
+## Method and scope
+One self-contained page with an interactive tool, visible worked examples, limitations and questions. No accounts or financial transactions. Inputs are processed locally in the browser.

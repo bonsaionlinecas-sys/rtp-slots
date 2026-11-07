@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bonsaionlinecas-sys.github.io/rtp-slots/sitemap.xml
